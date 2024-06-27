@@ -1,5 +1,7 @@
 
 ![](https://cdn.corporatefinanceinstitute.com/assets/Time-Series-Analysis-1024x729.png)
+Dataset Link : https://www.kaggle.com/datasets/varpit94/tesla-stock-data-updated-till-28jun2021
+
 
 ----
 
@@ -83,3 +85,5 @@
 
 
 -----
+
+## Check this notebook on kaggle : https://www.kaggle.com/code/muhammadibrahimqasmi/time-series-magic-your-ultimate-beginner-s-guide
